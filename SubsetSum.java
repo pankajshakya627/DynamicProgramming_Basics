@@ -12,7 +12,7 @@ public class SubsetSum
         System.out.print(subsetSum(arr,sum, n));
     }
 	
-    /* This Problem is avariation on 0-1 Knapsack */
+    /* This Problem is a variation on 0-1 Knapsack */
 
       
 	static boolean subsetSum(int[] arr, int sum, int n)
